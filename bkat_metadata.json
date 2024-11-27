@@ -2,6 +2,7 @@
   "name": "BKAT Token",
   "symbol": "BKAT",
   "uri": "https://deep-rathour.github.io/bkat-token-metadata/bkat_metadata.json",
+  "image": "https://raw.githubusercontent.com/punjab1514/token-list/main/assets/mainnet/BKATv2yL4Byo11hQDDoupnNvdtiZT9io8t2QCFwfWSgC/logo.png",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
