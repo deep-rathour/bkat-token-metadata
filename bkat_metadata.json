@@ -1,0 +1,9 @@
+{
+  "name": "BKAT Token",
+  "symbol": "BKAT",
+  "uri": "https://yourusername.github.io/repository-name/bkat_metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
