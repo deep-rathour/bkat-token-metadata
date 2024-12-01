@@ -1,5 +1,7 @@
 {
   "name": "WolfOfWallStreet",
   "symbol": "WWS",
-  "uri": "https://raw.githubusercontent.com/punjab1514/bkat-token-metadata/main/bkat_metadata.json"
+  "uri": "https://raw.githubusercontent.com/punjab1514/bkat-token-metadata/main/bkat_metadata.json",
+   "seller_fee_basis_points": 500,
+  "creators": null
 }
