@@ -1,10 +1,10 @@
-{
-  "name": "BKAT Token",
-  "symbol": "BKAT",
+
+  {
+  "name": "MeowMoola",
+  "symbol": "MEMO",
   "uri": "https://punjab1514.github.io/bkat-token-metadata/bkat_metadata.json",
   "image": "https://raw.githubusercontent.com/punjab1514/token-list/main/assets/mainnet/BKATv2yL4Byo11hQDDoupnNvdtiZT9io8t2QCFwfWSgC/logo.png",
-  "sellerFeeBasisPoints": 0,
-  "creators": null,
-  "collection": null,
-  "uses": null
+  "creator": "6JnDRXhfAnfZ3XFczbuFQmbRwrdo2A7Yh9CzRQ8FEutL"
 }
+
+
